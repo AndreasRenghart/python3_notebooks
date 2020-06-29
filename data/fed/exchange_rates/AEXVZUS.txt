@@ -1,0 +1,37 @@
+Title:               Venezuela / U.S. Foreign Exchange Rate
+Series ID:           AEXVZUS
+Source:              Board of Governors of the Federal Reserve System (US)
+Release:             G.5A Foreign Exchange Rates
+Seasonal Adjustment: Not Seasonally Adjusted
+Frequency:           Annual
+Units:               Venezuelan Bolivares to One U.S. Dollar
+Date Range:          1995-01-01 to 2018-01-01
+Last Updated:        2019-01-07 6:01 AM CST
+Notes:               Averages of daily figures. Noon buying rates in New York City for
+                     cable transfers payable in foreign currencies.
+
+DATE              VALUE
+1995-01-01       0.1748
+1996-01-01       0.4172
+1997-01-01       0.4889
+1998-01-01       0.5484
+1999-01-01       0.6068
+2000-01-01       0.6805
+2001-01-01       0.7241
+2002-01-01       1.1612
+2003-01-01       1.6134
+2004-01-01       1.8861
+2005-01-01       2.1071
+2006-01-01       2.1446
+2007-01-01       2.1446
+2008-01-01       2.1446
+2009-01-01       2.1445
+2010-01-01       4.2380
+2011-01-01       4.2893
+2012-01-01       4.2893
+2013-01-01       6.0697
+2014-01-01       6.2842
+2015-01-01       6.2842
+2016-01-01       9.2839
+2017-01-01       9.9750
+2018-01-01  266016.5547
